@@ -49,3 +49,6 @@
 [submodule "bundle/rainbow"]
 	path = bundle/rainbow
 	url = git://github.com/rafiks/rainbow.git
+[submodule "bundle/surround"]
+	path = bundle/surround
+	url = https://github.com/tpope/vim-surround.git
